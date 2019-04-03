@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Portal 42</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="tab_text_1">INFO</string>
+    <string name="tab_text_2">ACHIEVEMENTS</string>
+    <string name="tab_text_3">PROJECTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tv_achievement_name">Achievement name</string>
+    <string name="tv_achievement_description">Achievement description</string>
+    <string name="iv_achievement">Image achievement</string>
+    <string name="tv_achievement_tier">Achievement tier</string>
+    <string name="hint">Login</string>
+    <string name="logo">Logo 42</string>
+    <string name="search">Search</string>
+    <string name="user_email">Email</string>
+    <string name="user_location">Location</string>
+    <string name="user_mobile_phone">Mobile phone</string>
+    <string name="user_start_date">Start date</string>
+    <string name="icon_email">Icon email</string>
+    <string name="icon_sms">Icon sms</string>
+    <string name="icon_phone">Icon email</string>
+    <string name="icon_location">Icon location</string>
+    <string name="icon_calendar">Icon calendar</string>
+    <string name="action_home">Home</string>
+</resources>
